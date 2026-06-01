@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Revanth Reddy 👋
 
-<!--
-**revanthreddy72r/revanthreddy72r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer with 4+ years of experience building production-grade AI and Machine Learning solutions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- TensorFlow
+- PyTorch
+- AWS SageMaker
+- AWS Bedrock
+- LangChain
+- RAG
+- Kubernetes
+- Docker
+- MLflow
+- FastAPI
+- Spark
+- Kafka
+
+## Certifications
+
+- AWS Certified Machine Learning - Specialty
+- Databricks Certified Machine Learning Professional
+- Microsoft Azure AI Engineer Associate
+
+## Areas of Interest
+
+- Generative AI
+- Large Language Models (LLMs)
+- RAG Systems
+- MLOps
+- AI Agents
+- Cloud AI Platforms
+
+## Connect
+📧 revanthreddy72r@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/revanth-reddy-09542a3b3
+
+📧 revanthreddy72r@gmail.com
+
+🔗 LinkedIn: Add your LinkedIn URL here
