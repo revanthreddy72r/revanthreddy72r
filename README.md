@@ -37,7 +37,3 @@ AI/ML Engineer with 4+ years of experience building production-grade AI and Mach
 📧 revanthreddy72r@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/revanth-reddy-09542a3b3
-
-📧 revanthreddy72r@gmail.com
-
-🔗 LinkedIn: Add your LinkedIn URL here
